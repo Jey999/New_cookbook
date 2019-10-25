@@ -4,9 +4,11 @@ TODO: Enter the cookbook description here.
 
 # Chef - A configuration management tool
 
-## Recipes and Cookbooks
+## Recipes
 
 A recipe is a provisioning script - written in pure RUBY with it's own methods. Making it a domain specific language (DSL).
+
+This lives in the recipe folder
 
 ### Cookbooks
 Hold many Recipes
