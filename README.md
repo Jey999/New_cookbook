@@ -19,3 +19,8 @@ Hold many Recipes
 - runs the chef code against the environment to provision it
 - run unit tests(tests the code) and integration test suites to ensure the environment is correct/standardised (test the environment)
 - closes everything down
+
+### commands to use chef and kitchen
+- Kitchen create (creates a virtual machine)
+- kitchen converge ( Run your recipe/provision)
+- kitchen destory 

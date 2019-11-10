@@ -31,3 +31,5 @@ suites:
       inspec_tests:
         - test/integration/default
     attributes:
+# this is where you'll specify which recipes will be used
+# and also which test will be ran
